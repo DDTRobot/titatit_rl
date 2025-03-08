@@ -1,0 +1,16 @@
+*.pyc
+logs/
+*.pt
+*.mp4
+*.json
+*.engine
+*.onnx
+.vscode/
+configs/__pycache__/
+runner/__pycache__/
+modules/__pycache__/
+utils/__pycache__/
+envs/__pycache__/
+algorithm/__pycache__/
+__pycache__/
+**/__pycache__/
